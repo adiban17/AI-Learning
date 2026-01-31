@@ -1,0 +1,6 @@
+I am overwriting this file!This seems pretty cool.This is not on a new line
+This is a new lineRight now i am using the '.write' function to write new stuff within a file
+But this new stuff is not getting overwritten over the old stuff. This is being appended.
+I still love food though.😋Right now i am using the '.write' function to write new stuff within a file
+But this new stuff is not getting overwritten over the old stuff. This is being appended.
+I still love food though.😋

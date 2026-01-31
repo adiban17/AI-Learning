@@ -1,0 +1,5 @@
+Commands to Create a Virtual Environment:
+- Conda: conda create -p virtual_env_name python
+- Python: python -m venv virtual_env_name
+- to continue code to the next line use '\' operator
+- for index,value in enumerate(list): return both the index and the value of the list element
